@@ -3,4 +3,7 @@ SSH-Code-Builder
 
 You can use this tools to generate SSH code and UI code for your web app
 
-Just as you konw, Jave web developers always spend much time on doing some repetitive work. For example,  writing Create-Read-Update-Delete(CRUD) code ( It generally include data tier code, business tier code and presentation layer code ),  
+Just as you know, web developers always spend much time on doing some repetitive work. 
+For example,  writing Create-Read-Update-Delete(CRUD) code. 
+For .net web developers, It generally include data tier code, business tier code and presentation layer code(Three-tier B/S Architecture).
+For Java web developers, it might be model code, view code and controller code(MVC). But It is almost for Java web developers  impossible to write a source code generator which can compatible to any framework.
