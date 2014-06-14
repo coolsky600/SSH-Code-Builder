@@ -1,7 +1,7 @@
 SSH-Code-Builder
 ================
 
-## why do we need this? 
+## Why do we need this? 
 
 Just as you know, web developers always spend much time on doing some repetitive work. 
 For example,  writing Create-Read-Update-Delete(CRUD) code. 
@@ -10,3 +10,6 @@ For Java web developers, it might be model code, view code and controller code(M
 Maybe you have used IBM Rational Architecture to draw UML diagrams and generator EJB code, but EJB is totally out of fashion now. 
 
 We need to create a source code generator for a specific Java Web architecture!
+
+## Architecture description
+SSH-Code-Builder is a source code generator for SSH(Spring + hibernate +structs).
