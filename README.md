@@ -20,4 +20,4 @@ As SSH(Spring + hibernate +structs) and RIA(Rich Internet Applications) become m
     4. Jquery EasyUI 1.3.6
     5. Apache shiro 1.2
 ```
-![image](https://github.com/coolsky600/SSH-Code-Builder/blob/master/Raw/Architecture.png)
+![image](http://github.com/coolsky600/SSH-Code-Builder/raw/master/Raw/Architecture.png)
