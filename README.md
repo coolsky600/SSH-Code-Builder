@@ -1,7 +1,7 @@
 SSH-Code-Builder
 ================
 
-## what`s this?
+## why do we need this? 
 
 Just as you know, web developers always spend much time on doing some repetitive work. 
 For example,  writing Create-Read-Update-Delete(CRUD) code. 
