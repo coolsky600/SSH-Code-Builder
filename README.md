@@ -12,4 +12,9 @@ Maybe you have used IBM Rational Architecture to draw UML diagrams and generator
 We need to create a source code generator for a specific Java Web architecture!
 
 ## Architecture description
-SSH-Code-Builder is a source code generator for SSH(Spring + hibernate +structs).
+As SSH(Spring + hibernate +structs) and RIA(Rich Internet Applications) become more and more popular. We decide to create a source code generator for 
+    1. Spring
+    2. hibernate
+    3. structs
+    4. Jquery EasyUI
+    5. Apache shiro
