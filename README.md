@@ -26,4 +26,6 @@ This is the architectural description diagram of target Java web project
 
 SSH-Code-Builder can generate source code for each level.
 
+Srever side description diagram detial
+
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ssh.png)
