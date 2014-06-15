@@ -1,0 +1,18 @@
+package cn.ibm.com.vo;
+
+public class ##ClassNameVO{
+
+	#PropertyTemplate
+	private ##Tpye ##NameLower ;
+	#PropertyTemplate
+	
+	#GSTemplate
+	public ##Tpye get##NameUpper() {
+		return ##NameLower;
+	}
+	
+	public void set##NameUpper(##Tpye ##NameLower) {
+		this.##NameLower = ##NameLower;
+	}
+	#GSTemplate
+}
