@@ -23,4 +23,7 @@ As SSH(Spring + hibernate +structs) and RIA(Rich Internet Applications) become m
 ```
 This is the architectural description diagram of target Java web project 
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/Architecture.jpg)
+
 SSH-Code-Builder can generate source code for each level.
+
+![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ssh.png)
