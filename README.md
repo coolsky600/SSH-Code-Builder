@@ -33,12 +33,14 @@ Srever side description diagram detial
 ##Usage 
 
 **Step1 Get source code**
+
 The project structure should like this：
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ProjectStructure.png)
 
 
 **Step2 Modify code template**
-You can change package name and
+
+You can change package name etc for you project, default package name is `cn.ibm.com`
 
 
 **Step3 Config CodeBuilder.java**
