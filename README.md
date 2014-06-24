@@ -29,3 +29,25 @@ SSH-Code-Builder can generate source code for each level.
 Srever side description diagram detial
 
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ssh.png)
+
+##Usage## 
+Config CodeBuilder.java
+
+`
+    //Mysql connection string
+	private String url = "jdbc:mysql://localhost:3306/wechat";
+	
+	//Mysql user name
+	private String user = "root";
+	
+	//Mysql user password
+	private String pass = "19900624";
+	
+	//table name (to generate)
+	private String tableName = "config";
+	
+	//generate file save path
+	private String path = "d:/"+tableName;
+`
+
+Run CodeBuilder.java
