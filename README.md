@@ -33,9 +33,15 @@ Srever side description diagram detial
 ##Usage 
 
 **Step1 Get source code**
+The project structure should like this：
+![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ProjectStructure.png)
 
-    
-**Step2 Config CodeBuilder.java**
+
+**Step2 Modify code template**
+You can change package name and
+
+
+**Step3 Config CodeBuilder.java**
 
 ```
     //Mysql connection string
@@ -55,6 +61,6 @@ Srever side description diagram detial
 
 ```
 
-**Step3 Run CodeBuilder.java**
+**Step4 Run CodeBuilder.java**
 
-**Step4 Drag generated file to ssh project**
+**Step5 Drag generated file to target ssh project**
