@@ -30,8 +30,8 @@ Srever side description diagram detial
 
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ssh.png)
 
-##Usage## 
-###Step1### Config CodeBuilder.java
+##Usage 
+###Step1 Config CodeBuilder.java
 
 
     //Mysql connection string
@@ -50,6 +50,6 @@ Srever side description diagram detial
     private String path = "d:/"+tableName;
 
 
-###Step2### Run CodeBuilder.java
+###Step2 Run CodeBuilder.java
 
-###Step2### Run Drag generated file to ssh project
+###Step3 Drag generated file to ssh project
