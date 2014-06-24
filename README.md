@@ -32,7 +32,7 @@ Srever side description diagram detial
 
 ##Usage 
 
-**step1 Get source code**
+**Step1 Get source code**
 
     
 **Step2 Config CodeBuilder.java**
