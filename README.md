@@ -40,8 +40,8 @@ The project structure should like this：
 
 **Step2 Modify code template**
 
-You can change package name etc for you project, default package name is `cn.ibm.com`
-
+You can change package name etc for you project, default package name is `cn.ibm.com`.
+You can also import your own dependence.
 
 **Step3 Config CodeBuilder.java**
 
@@ -64,5 +64,7 @@ You can change package name etc for you project, default package name is `cn.ibm
 ```
 
 **Step4 Run CodeBuilder.java**
+You will find 8 soucre code file.
 
 **Step5 Drag generated file to target ssh project**
+There is a demo ssh project called MDD in folder MDD, if you start from this project, just run this website without any config.
