@@ -38,20 +38,20 @@ Srever side description diagram detial
 ###Step2 Config CodeBuilder.java
 
 ```
-    //Mysql connection string
-    private String url = "jdbc:mysql://localhost:3306/wechat";
-    
-    //Mysql user name
-    private String user = "root";
-    
-    //Mysql user password
-    private String pass = "19900624";
-    
-    //table name (to generate)
-    private String tableName = "config";
-    
-    //generated file save path
-    private String path = "d:/"+tableName;
+//Mysql connection string
+private String url = "jdbc:mysql://localhost:3306/wechat";
+
+//Mysql user name
+private String user = "root";
+
+//Mysql user password
+private String pass = "19900624";
+
+//table name (to generate)
+private String tableName = "config";
+
+//generated file save path
+private String path = "d:/"+tableName;
 
 ```
 
