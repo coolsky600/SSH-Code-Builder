@@ -31,8 +31,11 @@ Srever side description diagram detial
 ![Image text](http://raw.github.com/coolsky600/SSH-Code-Builder/master/Raw/ssh.png)
 
 ##Usage 
-###Step1 Config CodeBuilder.java
 
+###Step1 Get source code
+
+    
+###Step2 Config CodeBuilder.java
 
     //Mysql connection string
     private String url = "jdbc:mysql://localhost:3306/wechat";
@@ -50,6 +53,6 @@ Srever side description diagram detial
     private String path = "d:/"+tableName;
 
 
-###Step2 Run CodeBuilder.java
+###Step3 Run CodeBuilder.java
 
-###Step3 Drag generated file to ssh project
+###Step4 Drag generated file to ssh project
