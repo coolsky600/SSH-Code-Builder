@@ -37,6 +37,7 @@ Srever side description diagram detial
     
 ###Step2 Config CodeBuilder.java
 
+```
     //Mysql connection string
     private String url = "jdbc:mysql://localhost:3306/wechat";
     
@@ -52,6 +53,7 @@ Srever side description diagram detial
     //generated file save path
     private String path = "d:/"+tableName;
 
+```
 
 ###Step3 Run CodeBuilder.java
 
