@@ -33,8 +33,8 @@ Srever side description diagram detial
 ##Usage## 
 Config CodeBuilder.java
 
-`
-    //Mysql connection string
+
+        //Mysql connection string
 	private String url = "jdbc:mysql://localhost:3306/wechat";
 	
 	//Mysql user name
@@ -48,6 +48,6 @@ Config CodeBuilder.java
 	
 	//generate file save path
 	private String path = "d:/"+tableName;
-`
+
 
 Run CodeBuilder.java
