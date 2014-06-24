@@ -32,7 +32,7 @@ Srever side description diagram detial
 
 ##Usage 
 
-**tep1 Get source code**
+**step1 Get source code**
 
     
 **Step2 Config CodeBuilder.java**
@@ -57,4 +57,4 @@ Srever side description diagram detial
 
 **Step3 Run CodeBuilder.java**
 
-###Step4 Drag generated file to ssh project
+**Step4 Drag generated file to ssh project**
